@@ -51,7 +51,7 @@ ftgl_headers = \
     FTGL/FTBBox.h \
     FTGL/FTBuffer.h \
     FTGL/FTPoint.h \
-    FTGL/FTGlyph.h \
+    FTGL/FTGLGlyph.h \
     FTGL/FTBitmapGlyph.h \
     FTGL/FTBufferGlyph.h \
     FTGL/FTExtrdGlyph.h \
